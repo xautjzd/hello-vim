@@ -1,1 +1,1 @@
-command! Hello :call <SID>Hello()
+command! Hello :call hello#Hello()
